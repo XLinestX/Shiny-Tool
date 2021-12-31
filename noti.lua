@@ -88,7 +88,7 @@ Instances.UICorner_3.CornerRadius = UDim.new(0.100000001, 0)
 
 Instances.ImageButton_1.Parent = Instances.Frame_1
 Instances.ImageButton_1.HoverImage = 'rbxassetid://6903539993'
-Instances.ImageButton_1.Image = 'rbxassetid://8370832142'
+Instances.ImageButton_1.Image = 'rbxassetid://6869680115'
 Instances.ImageButton_1.PressedImage = 'rbxassetid://6903534547'
 Instances.ImageButton_1.ScaleType = Enum.ScaleType.Slice
 Instances.ImageButton_1.SliceCenter = Rect.new(55, 55, 95, 95)
