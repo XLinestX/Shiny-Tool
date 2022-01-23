@@ -38,7 +38,7 @@ screenGui.ResetOnSpawn = false
 Instances.Frame_1.Parent = screenGui
 Instances.Frame_1.BackgroundColor3 = Color3.new(1, 1, 1)
 Instances.Frame_1.Position = UDim2.new(0.37099999189377, 0, 0.21899999678135, 0)
-Instances.Frame_1.Size = UDim2.new(0, 400, 0, 379)
+Instances.Frame_1.Size = UDim2.new(0, 300, 0, 279)
 
 Instances.UICorner_1.Parent = Instances.Frame_1
 Instances.UICorner_1.CornerRadius = UDim.new(0.075000003, 0)
